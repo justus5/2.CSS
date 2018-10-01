@@ -1,0 +1,12 @@
+@media screen and (max-width: 1024px) {
+    .box {
+        width: 80%;
+        float: none;
+        margin: 20 px auto;
+    }
+}
+@media screen and (max-width: 480px) {
+    .box button {
+        display: inline-block;
+    }
+}
