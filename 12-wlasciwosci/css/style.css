@@ -1,0 +1,22 @@
+body {
+    background-color: red;
+}
+
+p {
+    font-size: 2rem;
+    margin-bottom: 25px;
+}
+
+.bg {
+/*
+    background-color: rgba(147, 255, 67,1);
+    background-image: url(../img/Apple_gray_logo.png);
+    background-repeat: no-repeat;
+    background-position: 100px 50px;
+    background-size: 250px auto;
+*/
+
+    background: rgba(147, 255, 67,1) url(../img/Apple_gray_logo.png) no-repeat 100px 50px;
+    background-size: 200px auto;
+}
+
